@@ -4,7 +4,7 @@ import { useEffect, useRef, useState } from "react";
 import { useRouter } from 'next/navigation';
 // ── TOKEN & ASSETS ─────────────────────────────────────────────────────────────
 const ION_TOKEN =
-  "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJqdGkiOiJkNzM1Yzk2Yy01YmJjLTQ5MzAtOGU3ZC05Y2YxZmE0ZWUyNzQiLCJpZCI6NDIxMzcxLCJpYXQiOjE3NzY3ODYzNjJ9.4V7pvuslY0B0amxbqLEaoth8vxN4sq0ijwTxWs3x-PU";
+  "";
 
 const TERRAIN_DSM           = 4654970;
 const TERRAIN_DTM           = 4658029;
